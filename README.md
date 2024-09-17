@@ -22,7 +22,7 @@
   ##
  
 <div> 
-  <a href="https://felipemariano.com.br/portifolio" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-E66A00?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+  <a href="https://felipemariano.com.br/portifolio" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-E66A00?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipe.mariano2511@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipemariano2511" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
