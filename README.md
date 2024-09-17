@@ -15,7 +15,7 @@
 ###
 
 <h3 align="center">
-  Main Skills<br><br>
+  My Skills<br><br>
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,php,mysql,postgresql,maven,linux,git,github)](https://skillicons.dev)
 
