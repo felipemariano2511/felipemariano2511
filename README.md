@@ -17,7 +17,7 @@
 <h3 align="center">
   My Skills<br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,mysql,postgresql,maven,linux,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,mysql,postgresql,maven,debian,linux,git,github)](https://skillicons.dev)
 
   Learning Roadmap<br><br>
   
