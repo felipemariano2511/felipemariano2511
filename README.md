@@ -17,11 +17,11 @@
 <h3 align="center">
   My Skills<br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,mysql,postgresql,maven,debian,linux,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,python,mysql,postgresql,maven,debian,linux)](https://skillicons.dev)
 
   Learning Roadmap<br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=laravel,postman,python,mongo,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=laravel,mongo,docker,sklearn)](https://skillicons.dev)
 </h3>
 
 ##
