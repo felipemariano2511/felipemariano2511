@@ -21,7 +21,7 @@
 
   Learning Roadmap<br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=laravel,mongo,sklearn,kafka,kubernets)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=laravel,mongo,sklearn,kafka,kubernetes)](https://skillicons.dev)
 </h3>
 
 ##
