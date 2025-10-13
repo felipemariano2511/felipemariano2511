@@ -47,7 +47,14 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipemariano2511&s=50&c=2dedf0&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center">
+    <img 
+        align="center" 
+        src="https://komarev.com/ghpvc/?username=felipemariano2511" 
+        width="200" 
+        height="50" 
+    />
+</p>
 <br>
 </div>
 
